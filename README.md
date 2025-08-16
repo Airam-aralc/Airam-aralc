@@ -1,6 +1,7 @@
 ##  Olá, mundo! Eu sou Maria Clara 
 
-- 🌱 Estudando Sistemas Embarcados na Embarcatech
-- 📫 Contate-me no email: mari.claara04@gmail.com
-- 😄 Aluna do Instituto Federal de Educação, Ciência e Tecnologia da Bahia
-- 🤖 Cursando Técnico em Eletrônica
+- 📫 E-mail para contato:: mari.claara04@gmail.com
+- 🎓 Formada pelo Instituto Federal de Educação, Ciência e Tecnologia da Bahia
+- 🔌 Técnica em Eletrônica
+- 🤖 Concluinte do curso de Sistemas Embarcados - Embarcatech
+- 🧩 Educadora em robótica e programação, com foco em crianças com **TEA** e **TDAH**
