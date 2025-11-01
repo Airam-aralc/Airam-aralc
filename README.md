@@ -6,4 +6,4 @@
 - 🤖 Concluinte do curso de Sistemas Embarcados - Embarcatech
 - 🎃 Aluna One (Oracle Next Education) em parceria com a Alura
 - 👾 ONE | TECH FOUNDATION - Especialização Back-End
-- 🧩 Educadora em robótica e programação, com foco em crianças com **TEA** e **TDAH**
+- 🧩 Educadora em robótica, eletrônica e programação, com foco em crianças com **TEA** e **TDAH**
